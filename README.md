@@ -1,0 +1,20 @@
+# 小demo
+平时练手的小demo记录一下。
+
+# 完成
+## 1.svg-dome
+一个简单的【我的】页面，图标使用iconfont.cn生成的SVG。
+
+### svg-demo的布局
+```
+. 
+├── svg-demo                                    // svg的demo文件夹
+│   ├── my.html                                 // [我的]页面
+│   ├── images                                  // 图片和iconfont文件夹
+│   │   ├── banner.jpg                          // banner图片
+│   │   ├── iconfont.js                         // iconfont
+│   ├── css                                     // css文件夹
+│   │   ├── style.css                           // css文件
+.
+
+```
