@@ -2,7 +2,7 @@
 平时练手的小demo记录一下。
 
 ## 1.svg-dome
-一个简单的【我的】页面，图标使用iconfont.cn生成的SVG。
+一个简单的【我的】页面，图标使用iconfont.cn生成的SVG。[查看](http://htmlpreview.github.io/?https://github.com/Adela2012/littledemos/blob/master/svg-demo/my.html)
 
 <img src="https://github.com/Adela2012/littledemos/blob/master/screenshots/svgdemo.png" width="365" height="619"/> 
 
@@ -21,7 +21,10 @@
 ```
 
 ## 2.colorAnimate
-colorAnimate使用iframe展现canvas。背景色平缓变换颜色。[演示地址](http://htmlpreview.github.io/?https://github.com/Adela2012/littledemos/blob/master/colorAnimate/colorAnimate.html)
+colorAnimate使用iframe展现canvas。背景色平缓变换颜色。[查看](http://htmlpreview.github.io/?https://github.com/Adela2012/littledemos/blob/master/colorAnimate/colorAnimate.html)
+
+<iframe src="https://github.com/Adela2012/littledemos/tree/master/colorAnimate/canvas" frameborder="0"></iframe>
+
 ### colorAnimate的布局
 ```
 . 
