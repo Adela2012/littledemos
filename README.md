@@ -21,8 +21,7 @@
 ```
 
 ## 2.colorAnimate
-colorAnimate使用iframe展现canvas。背景色平缓变换颜色。
-
+colorAnimate使用iframe展现canvas。背景色平缓变换颜色。[演示地址](http://htmlpreview.github.io/?https://github.com/Adela2012/littledemos/blob/master/colorAnimate/colorAnimate.html)
 ### colorAnimate的布局
 ```
 . 
