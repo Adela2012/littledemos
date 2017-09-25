@@ -19,3 +19,22 @@
 .
 
 ```
+
+## 2.colorAnimate
+colorAnimate使用iframe展现canvas。背景色平缓变换颜色。
+
+### colorAnimate的布局
+```
+. 
+├── colorAnimate                                     // colorAnimate文件夹
+│   ├── colorAnimate.html                            // 使用iframe展现canvas
+│   ├── canvas                                       // canvas文件夹
+│   │   ├── canvas.html                              // 主html文件
+│   │   ├── color.js                                 // 背景色变换
+│   │   ├── 3d-lines-animation.js                    // animation
+│   │   ├── jquery.min.js                            // jquery
+│   │   ├── projector.js                             // projector
+│   │   ├── three.min.js                             // three
+.
+
+```
